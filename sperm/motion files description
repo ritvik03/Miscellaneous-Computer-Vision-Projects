@@ -1,0 +1,5 @@
+motionTrack = nothing special
+motionTrack2.cpp = tracks last 10 frame/linw of movement
+motionTrack3.cpp = tracks all moments(sperm) one by one by ressing 'n'
+motionTrack4.cpp = shows no. of moving and osscialating sperms and on click then shows the sperm moving
+
